@@ -8,3 +8,7 @@ def sub(a, b):
 
 def scale(a, b):
     return a * 100 + b
+
+
+def scale_alt(a, b):
+    return a * 100 - b
