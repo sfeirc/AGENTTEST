@@ -12,3 +12,7 @@ def scale(a, b):
 
 def scale_alt(a, b):
     return a * 100 - b
+
+
+def bias(a, b):
+    return a * 4 + b
